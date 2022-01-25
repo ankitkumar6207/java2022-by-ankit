@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class concat3 {
+public class concat_3 {
    public static void main(String[] args) {
        Scanner sc=new Scanner(System.in);
        System.out.println("enter first string");
