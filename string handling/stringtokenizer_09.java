@@ -1,7 +1,7 @@
 // enter a line and display each words using stringtokenize. 
 import java.util.*;
 
-public class stringtokenizer2 {
+public class stringtokenizer_09 {
     
 
 

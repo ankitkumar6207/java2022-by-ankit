@@ -1,4 +1,5 @@
-public class prime_cla5 {
+// checks given no. is prime or not. 
+public class question2 {
     public static void main(String[] args) {
         int n=Integer.parseInt(args[0]);
         int f=0;

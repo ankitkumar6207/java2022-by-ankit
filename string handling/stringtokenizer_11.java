@@ -1,6 +1,6 @@
 // print all palindrome words using stringtokenizer. 
 import java.util.*;
-public class stringtokenizer3 {
+public class stringtokenizer_11 {
     public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
     System.out.println("enter a line");

@@ -1,6 +1,6 @@
 // enter a line and display each words starts with vowels. 
 import java.util.*;
-public class stringtokenizer1 {
+public class stringtokenizer_10 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter a line");

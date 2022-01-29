@@ -1,6 +1,7 @@
+// plindrome check using different method 
 import static java.lang.System.*;
 import static java.lang.Math.*;
-public class pal6IMP {
+public class question1 {
 
     public static void main(String[] args) {
        

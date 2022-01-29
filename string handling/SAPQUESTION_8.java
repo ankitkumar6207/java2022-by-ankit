@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SAPQUESTION4 {
+public class SAPQUESTION_8 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         // System.out.println("enter a string");
