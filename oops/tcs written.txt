@@ -1,0 +1,31 @@
+in tcs smart hiring we have three sections:
+1.verbal ability(english):24Q(time 30min)
+2.Resosoning:30Q(50min)
+3.Quantative aptitude:26(40min)
+
+verbal ability(important topics):
+.fill in the blanks
+.jumble words
+.comprehension
+.synonames and antonames
+.word meaning
+(tip:pehle comprehension wala part complete karo)
+
+Resoning:
+.number series
+.blood relation
+.statements and conclusion
+.data insufficiency
+.coding and decoding
+
+Maths:(important section)(manage time)
+.speed and distance
+.lcm and hcf
+.simple interest
+.compound interest
+.profit and loss
+.time and word
+.probability and stat
+(manage time very samrtly and leave question which you don't know)
+tip:saare questions attempt krne hai(but first complete those questions which you know surely then in remaining time attempt all)
+ 
